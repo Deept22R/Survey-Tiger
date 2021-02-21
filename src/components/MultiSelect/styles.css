@@ -1,0 +1,16 @@
+textarea{
+    width: 300px;
+}
+#button{
+    display: flex;
+    justify-content: space-evenly;
+}
+.input-group{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px
+}
+#inputbox{
+    display: inline;
+    align-items: center;
+}

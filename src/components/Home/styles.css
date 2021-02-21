@@ -1,0 +1,26 @@
+#img{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 3px;
+}
+p{
+    display: inline;
+    font-family: cursive;
+    font-size: 80px;
+    margin: 3px;
+    font-family: 'Indie Flower', cursive;
+    color: green;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+body{
+    background-color: green;
+}

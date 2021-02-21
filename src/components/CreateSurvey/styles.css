@@ -1,0 +1,10 @@
+#label{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+select{
+    border: solid blue;
+    border-radius: 5px;
+}
